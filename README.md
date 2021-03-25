@@ -1,4 +1,4 @@
 # WebScrapingInstagram
 Coleta de dados, fotos, usando selenium
 
-Usado python, chromedriver e jupyter notebook.
+Usado python, anaconda, chromedriver e jupyter notebook.
